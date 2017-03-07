@@ -1,0 +1,2 @@
+# afrik-service
+wordpress-por
